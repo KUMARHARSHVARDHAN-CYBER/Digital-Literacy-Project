@@ -3,9 +3,13 @@
 VITYARTHI PROJECT
 
 Digital Literacy Portfolio: Student Ambassador
+
 Name-Kumar Harshvardhan
+
 Registration Number-25MIM10100
+
 Connect with me-:https://www.linkedin.com/in/kumar-harshvardhan-061374377/
+
 Project Overview
 
 I have been selected as a Student Digital Ambassador. My role is to help my peers navigate the digital world—from building a professional presence to staying safe from online threats. This repository is my official Digital Literacy Portfolio, combining tech skills with the traditional rules of professional communication.
