@@ -18,4 +18,9 @@ Repository Guide
 
 This project is organized into specific folders to keep things clean and professional:
 
-task-1-presentation- A visual infographic on digital literacy created in Canva.
+Task-1-presentation- A visual infographic on digital literacy created in Canva.
+
+Task2-Portfolio-Professional setups on Linkedln,Github and Kaggle.
+
+Task3-Platforms-Codechef practice screenshot and myGoogleForm setup.
+
