@@ -24,3 +24,8 @@ Task2-Portfolio-Professional setups on Linkedln,Github and Kaggle.
 
 Task3-Platforms-Codechef practice screenshot and myGoogleForm setup.
 
+Task4-Professional Communication
+
+Task5-Cyber Security Awareness
+
+
